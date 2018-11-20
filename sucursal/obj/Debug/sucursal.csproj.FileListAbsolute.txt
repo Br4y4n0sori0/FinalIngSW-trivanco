@@ -1,0 +1,90 @@
+C:\Users\IdeaPad\Desktop\Nueva carpeta (2)\proyecto poo\sucursal\sucursal\bin\Debug\virtual.mdb
+C:\Users\IdeaPad\Desktop\Nueva carpeta (2)\proyecto poo\sucursal\sucursal\bin\Debug\sucursal.exe.config
+C:\Users\IdeaPad\Desktop\Nueva carpeta (2)\proyecto poo\sucursal\sucursal\bin\Debug\sucursal.exe
+C:\Users\IdeaPad\Desktop\Nueva carpeta (2)\proyecto poo\sucursal\sucursal\bin\Debug\sucursal.pdb
+C:\Users\IdeaPad\Desktop\Nueva carpeta (2)\proyecto poo\sucursal\sucursal\obj\Debug\sucursal.csprojResolveAssemblyReference.cache
+C:\Users\IdeaPad\Desktop\Nueva carpeta (2)\proyecto poo\sucursal\sucursal\obj\Debug\sucursal.Form1.resources
+C:\Users\IdeaPad\Desktop\Nueva carpeta (2)\proyecto poo\sucursal\sucursal\obj\Debug\sucursal.Properties.Resources.resources
+C:\Users\IdeaPad\Desktop\Nueva carpeta (2)\proyecto poo\sucursal\sucursal\obj\Debug\sucursal.csproj.GenerateResource.Cache
+C:\Users\IdeaPad\Desktop\Nueva carpeta (2)\proyecto poo\sucursal\sucursal\obj\Debug\sucursal.exe
+C:\Users\IdeaPad\Desktop\Nueva carpeta (2)\proyecto poo\sucursal\sucursal\obj\Debug\sucursal.pdb
+D:\Universidad\POO\Final\sucursal\sucursal\bin\Debug\virtual.mdb
+D:\Universidad\POO\Final\sucursal\sucursal\bin\Debug\sucursal.exe.config
+D:\Universidad\POO\Final\sucursal\sucursal\bin\Debug\sucursal.exe
+D:\Universidad\POO\Final\sucursal\sucursal\bin\Debug\sucursal.pdb
+D:\Universidad\POO\Final\sucursal\sucursal\obj\Debug\sucursal.csprojResolveAssemblyReference.cache
+D:\Universidad\POO\Final\sucursal\sucursal\obj\Debug\sucursal.Form1.resources
+D:\Universidad\POO\Final\sucursal\sucursal\obj\Debug\sucursal.Properties.Resources.resources
+D:\Universidad\POO\Final\sucursal\sucursal\obj\Debug\sucursal.csproj.GenerateResource.Cache
+D:\Universidad\POO\Final\sucursal\sucursal\obj\Debug\sucursal.exe
+D:\Universidad\POO\Final\sucursal\sucursal\obj\Debug\sucursal.pdb
+C:\Users\IdeaPad\Desktop\Nueva carpeta (2)\proyecto poo\sucursal\sucursal\obj\Debug\sucursal.menucliente.resources
+C:\Users\IdeaPad\Desktop\Nueva carpeta (2)\proyecto poo\sucursal\sucursal\obj\Debug\sucursal.menuadmin.resources
+C:\Users\IdeaPad\Desktop\Nueva carpeta (2)\proyecto poo\sucursal\sucursal\obj\Debug\sucursal.registroclient.resources
+C:\Users\IdeaPad\Desktop\Nueva carpeta (2)\proyecto poo\sucursal\sucursal\obj\Debug\sucursal.registrocuenta.resources
+D:\Universidad\POO\Final\sucursal\sucursal\obj\Debug\sucursal.menuadmin.resources
+D:\Universidad\POO\Final\sucursal\sucursal\obj\Debug\sucursal.menucliente.resources
+D:\Universidad\POO\Final\sucursal\sucursal\obj\Debug\sucursal.registroclient.resources
+D:\Universidad\POO\Final\sucursal\sucursal\obj\Debug\sucursal.registrocuenta.resources
+C:\Users\IdeaPad\Desktop\Nueva carpeta (2)\proyecto poo\sucursal\sucursal\obj\Debug\sucursal.buscarusuario2.resources
+C:\Users\IdeaPad\Desktop\Nueva carpeta (2)\proyecto poo\sucursal\sucursal\obj\Debug\sucursal.buscarcuenta2.resources
+D:\Universidad\POO\Final\sucursal\sucursal\obj\Debug\sucursal.buscarcuenta2.resources
+D:\Universidad\POO\Final\sucursal\sucursal\obj\Debug\sucursal.buscarusuario2.resources
+C:\Users\Santiago Restrepo\Desktop\sucursal\sucursal\obj\Debug\sucursal.csprojResolveAssemblyReference.cache
+C:\Users\Santiago Restrepo\Desktop\sucursal\sucursal\obj\Debug\sucursal.buscarcuenta2.resources
+C:\Users\Santiago Restrepo\Desktop\sucursal\sucursal\obj\Debug\sucursal.buscarusuario2.resources
+C:\Users\Santiago Restrepo\Desktop\sucursal\sucursal\obj\Debug\sucursal.Form1.resources
+C:\Users\Santiago Restrepo\Desktop\sucursal\sucursal\obj\Debug\sucursal.menuadmin.resources
+C:\Users\Santiago Restrepo\Desktop\sucursal\sucursal\obj\Debug\sucursal.menucliente.resources
+C:\Users\Santiago Restrepo\Desktop\sucursal\sucursal\obj\Debug\sucursal.Properties.Resources.resources
+C:\Users\Santiago Restrepo\Desktop\sucursal\sucursal\obj\Debug\sucursal.registroclient.resources
+C:\Users\Santiago Restrepo\Desktop\sucursal\sucursal\obj\Debug\sucursal.registrocuenta.resources
+C:\Users\Santiago Restrepo\Desktop\sucursal\sucursal\obj\Debug\sucursal.csproj.GenerateResource.Cache
+C:\Users\Santiago Restrepo\Desktop\sucursal\sucursal\obj\Debug\sucursal.exe
+C:\Users\Santiago Restrepo\Desktop\sucursal\sucursal\obj\Debug\sucursal.pdb
+C:\Users\Santiago Restrepo\Desktop\sucursal\sucursal\bin\Debug\virtual.mdb
+C:\Users\Santiago Restrepo\Desktop\sucursal\sucursal\bin\Debug\sucursal.exe.config
+C:\Users\Santiago Restrepo\Desktop\sucursal\sucursal\bin\Debug\sucursal.exe
+C:\Users\Santiago Restrepo\Desktop\sucursal\sucursal\bin\Debug\sucursal.pdb
+C:\Users\IdeaPad\Desktop\sucursal\sucursal\bin\Debug\virtual.mdb
+C:\Users\IdeaPad\Desktop\sucursal\sucursal\bin\Debug\sucursal.exe.config
+C:\Users\IdeaPad\Desktop\sucursal\sucursal\bin\Debug\sucursal.exe
+C:\Users\IdeaPad\Desktop\sucursal\sucursal\bin\Debug\sucursal.pdb
+C:\Users\IdeaPad\Desktop\sucursal\sucursal\obj\Debug\sucursal.csprojResolveAssemblyReference.cache
+C:\Users\IdeaPad\Desktop\sucursal\sucursal\obj\Debug\sucursal.buscarcuenta2.resources
+C:\Users\IdeaPad\Desktop\sucursal\sucursal\obj\Debug\sucursal.buscarusuario2.resources
+C:\Users\IdeaPad\Desktop\sucursal\sucursal\obj\Debug\sucursal.Form1.resources
+C:\Users\IdeaPad\Desktop\sucursal\sucursal\obj\Debug\sucursal.menuadmin.resources
+C:\Users\IdeaPad\Desktop\sucursal\sucursal\obj\Debug\sucursal.menucliente.resources
+C:\Users\IdeaPad\Desktop\sucursal\sucursal\obj\Debug\sucursal.Properties.Resources.resources
+C:\Users\IdeaPad\Desktop\sucursal\sucursal\obj\Debug\sucursal.registroclient.resources
+C:\Users\IdeaPad\Desktop\sucursal\sucursal\obj\Debug\sucursal.registrocuenta.resources
+C:\Users\IdeaPad\Desktop\sucursal\sucursal\obj\Debug\sucursal.csproj.GenerateResource.Cache
+C:\Users\IdeaPad\Desktop\sucursal\sucursal\obj\Debug\sucursal.exe
+C:\Users\IdeaPad\Desktop\sucursal\sucursal\obj\Debug\sucursal.pdb
+C:\Users\IdeaPad\Desktop\Nueva carpeta (2)\proyecto poo\sucursal\sucursal\obj\Debug\sucursal.transferencia.resources
+C:\Users\IdeaPad\Desktop\Nueva carpeta (2)\proyecto poo\sucursal\sucursal\obj\Debug\sucursal.vincular.resources
+C:\Users\IdeaPad\Desktop\Nueva carpeta (2)\proyecto poo\sucursal\sucursal\obj\Debug\sucursal.movimientos.resources
+D:\Universidad\POO\Final\sucursal\sucursal\obj\Debug\sucursal.movimientos.resources
+D:\Universidad\POO\Final\sucursal\sucursal\obj\Debug\sucursal.transferencia.resources
+D:\Universidad\POO\Final\sucursal\sucursal\obj\Debug\sucursal.vincular.resources
+C:\Users\Bryan\Documents\Grone\Universidad\ing. soft\sucursal\sucursal\bin\Debug\virtual.mdb
+C:\Users\Bryan\Documents\Grone\Universidad\ing. soft\sucursal\sucursal\bin\Debug\sucursal.exe.config
+C:\Users\Bryan\Documents\Grone\Universidad\ing. soft\sucursal\sucursal\bin\Debug\sucursal.exe
+C:\Users\Bryan\Documents\Grone\Universidad\ing. soft\sucursal\sucursal\bin\Debug\sucursal.pdb
+C:\Users\Bryan\Documents\Grone\Universidad\ing. soft\sucursal\sucursal\obj\Debug\sucursal.buscarcuenta2.resources
+C:\Users\Bryan\Documents\Grone\Universidad\ing. soft\sucursal\sucursal\obj\Debug\sucursal.buscarusuario2.resources
+C:\Users\Bryan\Documents\Grone\Universidad\ing. soft\sucursal\sucursal\obj\Debug\sucursal.Form1.resources
+C:\Users\Bryan\Documents\Grone\Universidad\ing. soft\sucursal\sucursal\obj\Debug\sucursal.menuadmin.resources
+C:\Users\Bryan\Documents\Grone\Universidad\ing. soft\sucursal\sucursal\obj\Debug\sucursal.menucliente.resources
+C:\Users\Bryan\Documents\Grone\Universidad\ing. soft\sucursal\sucursal\obj\Debug\sucursal.movimientos.resources
+C:\Users\Bryan\Documents\Grone\Universidad\ing. soft\sucursal\sucursal\obj\Debug\sucursal.Properties.Resources.resources
+C:\Users\Bryan\Documents\Grone\Universidad\ing. soft\sucursal\sucursal\obj\Debug\sucursal.registroclient.resources
+C:\Users\Bryan\Documents\Grone\Universidad\ing. soft\sucursal\sucursal\obj\Debug\sucursal.registrocuenta.resources
+C:\Users\Bryan\Documents\Grone\Universidad\ing. soft\sucursal\sucursal\obj\Debug\sucursal.transferencia.resources
+C:\Users\Bryan\Documents\Grone\Universidad\ing. soft\sucursal\sucursal\obj\Debug\sucursal.vincular.resources
+C:\Users\Bryan\Documents\Grone\Universidad\ing. soft\sucursal\sucursal\obj\Debug\sucursal.csproj.GenerateResource.cache
+C:\Users\Bryan\Documents\Grone\Universidad\ing. soft\sucursal\sucursal\obj\Debug\sucursal.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Documents\Grone\Universidad\ing. soft\sucursal\sucursal\obj\Debug\sucursal.exe
+C:\Users\Bryan\Documents\Grone\Universidad\ing. soft\sucursal\sucursal\obj\Debug\sucursal.pdb
+C:\Users\Bryan\Documents\Grone\Universidad\ing. soft\sucursal\sucursal\obj\Debug\sucursal.csprojAssemblyReference.cache
