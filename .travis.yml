@@ -1,0 +1,3 @@
+language: csharp
+mono: none
+dotnet: 4.0.30319
