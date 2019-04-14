@@ -1,4 +1,4 @@
 language: csharp
 solution: sucursal.sln
 mono: none
-dotnet: 3.0
+dotnet: 2.0.50727
